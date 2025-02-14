@@ -18,4 +18,4 @@ CSS3 for styling
 Clone the repository:
 git clone https://github.com/yourusername/portfolio-website.git
 
-Open this link  in a browser to view the portfolio.
+Open this link https://naveenmadmax.github.io/portfolio-simple-website/  in a browser to view the portfolio.
